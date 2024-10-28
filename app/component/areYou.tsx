@@ -7,7 +7,7 @@ const AreYouCard = () => {
 
 <div className='flex flex-col justify-center items-start gap-3'>
         
-        <ul className='text-6xl max-w-[597px] flex flex-col gap-4'>
+        <ul className=' text-3xl lg:text-6xl max-w-[597px] flex flex-col gap-4'>
             <li className=' text-white uppercase'>
             Are you ready to start?
             </li>
