@@ -27,6 +27,7 @@ const page = () => {
       </header>
       <Banner/>
       <StatsComponent/>
+      
       <ThirdSection/>
      
       <Value/>

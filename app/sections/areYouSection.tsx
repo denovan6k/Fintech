@@ -6,7 +6,7 @@ const AreYouSection = () => {
   return (
     <>
     
-   <div className='grid bg-are bg-cover lg:grid-cols-2 grid-rows-2 lg:grid-rows-1 rounded-3xl  lg:px-[75px] px-[16px] items-center bg-[#F6F9F8] border-2'>
+   <div className='grid bg-are bg-cover md:grid-cols-2 grid-rows-2 md:grid-rows-1 rounded-3xl  lg:px-[75px] px-[16px] items-center bg-[#F6F9F8] border-2'>
    
    <AreYouCard/>
 

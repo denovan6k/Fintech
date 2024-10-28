@@ -22,7 +22,7 @@ export  const styles = {
 }
 const TwoCard = () => {
   return (
-    <div className='grid lg:grid-cols-2 grid-rows-2 lg:grid-rows-1 lg:gap-8 pt-[24px] lg:px-[150px] px-[16px] gap-4'>
+    <div className='grid md:grid-cols-2 grid-rows-2 md:grid-rows-1 md:gap-8 pt-[24px] lg:px-[150px] px-[16px] gap-4'>
     <Card title={styles.title} 
     titleClass={styles.titleClass} 
     description={styles.description} 

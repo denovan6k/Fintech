@@ -21,7 +21,7 @@ export  const styles = {
 }
 const TranCard = () => {
   return (
-    <div className='grid grid-rows-2 lg:grid-cols-2 lg:grid-rows-1 lg:gap-6 items-center lg:px-[150px] px-[16px] '>
+    <div className='grid grid-rows-2 md:grid-cols-2 md:grid-rows-1 md:gap-6 items-center lg:px-[150px] px-[16px] '>
 
 
       <Image src={img1} alt='' />
