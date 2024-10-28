@@ -5,7 +5,7 @@ import Image from 'next/image'
 function ThreeCard() {
    
   return (
-    <div className='grid md:grid-cols-3 grid-rows-3 md:grid-rows-1 pt-[20px] pb-[40px] lg:px-[150px] px-[16px] gap-8 mx-auto'>
+    <div className='grid lg:grid-cols-3 grid-rows-3 lg:grid-rows-1 pt-[20px] pb-[40px] lg:px-[150px] px-[16px] gap-8 mx-auto'>
       <Card   
       description='we offer a comprehensive range of innovative financial services tailored to meet your needs.'
        title='100% Description'
@@ -20,8 +20,8 @@ function ThreeCard() {
       <Card 
       description='Services Page' 
       title='Visit Our'
-      titleClass='text-3xl'
-      descriptionClass='text-3xl'
+      titleClass='text-3xl '
+      descriptionClass='text-3xl text-center'
       
       className='flex flex-col items-center py-[64px] px-[32px] bg-[#2D907A] gap-2 justify-center text-white  max-w-[363px] rounded-2xl'/>
     </div>
