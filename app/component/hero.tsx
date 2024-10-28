@@ -12,7 +12,7 @@ import { Button } from '@/components/ui/button'
             <Image src='/assets/fire.svg' alt='fire' width={14} height={14} />
             <p>100% TRUSTED PLATFORM</p></span>
         <ul className='text-3xl lg:text-6xl max-w-[558px] flex flex-col gap-4'>
-            <li className='text-[#DCDCDC]'>
+            <li className=''>
             Finance with Security And 
             </li>
             <li className='text-[#E2FF54]'>

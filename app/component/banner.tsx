@@ -47,7 +47,7 @@ const Banner = () => {
         <li>
         
         <svg xmlns="http://www.w3.org/2000/svg" width="125" height="24" viewBox="0 0 125 24" fill="none">
-  <g clip-path="url(#clip0_807_3043)">
+  <g clipPath="url(#clip0_807_3043)">
     <mask id="mask0_807_3043" style={{ maskType: 'luminance' }} maskUnits="userSpaceOnUse" x="0" y="0" width="125" height="24">
       <path d="M124.543 0H0.703125V24H124.543V0Z" fill="white"/>
     </mask>
